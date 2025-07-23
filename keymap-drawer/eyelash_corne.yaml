@@ -122,8 +122,8 @@ layers:
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
   - {t: '-', s: _}
-  - {t: '=', s: +}
   - +
+  - {t: '=', s: +}
   - '{'
   - '}'
   - {t: '`', s: '~'}
